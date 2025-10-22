@@ -7,7 +7,7 @@
 
 # 🚀 Sobre mí
 
-## 🌱 Me gusta salir a correr, practicar CrossFit. 
+## 🌱 Me gusta salir a correr y practicar CrossFit. 
 ## ⚙️ Leo sobre desarrollo personal.
 ## 💀 Metalero de corazón.
 
