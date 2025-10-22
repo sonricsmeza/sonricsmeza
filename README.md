@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Soy Erick Meza :)
 
-<!--
-**sonricsmeza/sonricsmeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Físico con interés por la Física Médica.
+## 🧠 Actualmente desarrollando habilidades en programación, análisis de datos y herramientas de IA para mi posible desarrollo profesional en esta área.
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Sobre mí
+
+## 🌱 Me gusta salir a correr, practicar CrossFit. 
+## ⚙️ Leo sobre desarrollo personal.
+## 💀 Metalero de corazón.
+
+-----
+
+# 🌐 Aprendiendo
+
+## 💬 Totalmente abierto a aprender y colaborar.
