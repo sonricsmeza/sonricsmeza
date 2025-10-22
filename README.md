@@ -1,7 +1,7 @@
 # 👋 Soy Erick Meza :)
 
 ## 🎓 Físico con interés por la Física Médica.
-## 🧠 Actualmente desarrollando habilidades en programación, análisis de datos y herramientas de IA para mi posible desarrollo profesional en esta área.
+## 🧠 Desarrollando habilidades en programación y herramientas de IA para mi posible desarrollo profesional en esta área.
 
 -----
 
